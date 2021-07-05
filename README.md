@@ -1,5 +1,5 @@
 # Databases
-Databases 1 and 2 day!
+Databases 3rd day of databases (including 1st and 2nd day)
 # Presentation : https://slides.com/ricardsraitums/data-base
 
-Pieraksti tika veikti - miro board : https://miro.com/app/board/o9J_l88BykE=/
+Notes - miro board : https://miro.com/app/board/o9J_l88BykE=/
